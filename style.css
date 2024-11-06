@@ -1,22 +1,19 @@
-body 
+body
 {
-  background-color:bisque;
-font-family: Bai Janjuree;
-} 
-
-footer 
-{
-  background-color: black;
-  color: white;
-  position: fixed;
-  botton:0;
-  width: 100%;
-  heigher: 2 ten;
+    background-color: bisque;
+    font-family: bai janjuree;
 }
-
-  footer P
+footer
 {
-  text-aling:center;
-  font-size:0,6rem;
-  margin-tap:0,5rem;
+    background-color: black;
+    color: white;
+    position: fixed;
+    width: 100%;
+    height: 2rem;
+}
+footer   P
+{
+    text-align: center;
+    font-size: 0.6rem;
+    margin-top: 0.5rem;
 }
